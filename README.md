@@ -1,11 +1,11 @@
 # Collaborative-Repository
 Repository for the new story.
 
-#The next lines will contain a report with the commands used by each group member.
+# The next lines will contain a report with the commands used by each group member.
 
-##Carlos Colmenero Gómez-Cambronero (Collaborator 1 - Leader)
+## Carlos Colmenero Gómez-Cambronero (Collaborator 1 - Leader)
 
-##Iria Pérez Varela (Collaborator 2)
+## Iria Pérez Varela (Collaborator 2)
 * 'git clone' + HTTPS link : it was used to clone the repository. Because of this, adding the username and PAT was also required.
 * 'git config user.name' + username : this was required to be able to commit changes to the different repository branches.
 * 'git checkout iria_perez_varela' : used to ensure that the changes commited will be performed on the correct collaborator branch. The branch is not created in this command because it was already created using the webpage.
@@ -25,4 +25,4 @@ Repository for the new story.
 * 'git push origin iria_perez_varela' : to upload readme changes.
 * The readme file was later modified on the webpage to change some minor errors and format characteristics.
 
-##Sergio Rodríguez Llana (Collaborator 3)
+## Sergio Rodríguez Llana (Collaborator 3)
