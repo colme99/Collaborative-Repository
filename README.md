@@ -23,6 +23,8 @@ Repository for the new story.
 * 'git add .' : to consider the changes in all files on future commits again.
 * 'git commit -m "Iria Pérez command history added to readme file"' : to store the command history.
 * 'git push origin iria_perez_varela' : to upload readme changes.
-* The readme file was later modified on the webpage to change some minor errors and format characteristics.
+* The readme file was later modified on the webpage to change some minor errors and format characteristics. Also, other local changes were added to include history from following commands but the process was the same as shown before.
+* 'git checkout main' : to merge from there.
+* 'git merge iria_perez_varela' : to add collaborator changes into common main branch.
 
 ## Sergio Rodríguez Llana (Collaborator 3)
