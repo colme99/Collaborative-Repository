@@ -4,6 +4,26 @@ Repository for the new story.
 # The next lines will contain a report with the commands used by each group member.
 
 ## Carlos Colmenero Gómez-Cambronero (Collaborator 1 - Leader)
+* First of all, I created a repository using the web application, with the README file included.
+(Note that the username and email was already configured in my machine with: 'git config --global').
+* 'git clone https://github.com/colme99/Collaborative-Repository.git' : to clone the repository to my local machine.
+* Create "new story.txt" (the group story file) and edit the file with the same text as shown in the practice.
+* 'git status' : to check the changes.
+* 'git add new story.txt' : to add the group story file that was created.
+* 'git commit -m "First commit"'.
+* 'git push origin main' : to push the file in the main repository.
+(Note that the combination of the push related commands ('git status' + 'git add' + 'git commit -m' + 'git push origin') will be summarized the following times.
+* 'git checkout -b carlos_colmenero_gomez' : to create a the new branch and change to that branch (my personal branch, which corresponds to collaborator 1).
+* Create colaborator001_sory.txt file (empty).
+* Push the file ('git status' + 'git add colaborator001_story.txt' + 'git commit -m "Create colaborator001_story.txt"' + 'git push origin carlos_colmenero_gomez').
+* Edit collaborator001_sory.txt file with personal information (some things I did that day).
+* Push the edited file ('git status' + 'git add colaborator001_story.txt' + 'git commit -m "Added collaborator 001 today's activity"' + 'git push origin carlos_colmenero_gomez').
+* Add my personal story (collaborator 1 story) to the group file (new story.txt) in my personal branch.
+* Push the edited group file ('git status' + 'git add "new story.txt"' + 'git commit -m "Collaborator 1 story added to new story"' + 'git push origin carlos_colmenero_gomez').
+* Make a pull request to the main branch using the web application.
+* Resolve the conflicts (just so as not to override the collaborator 2 story), also in the web application. It was just solved with the enter key. It could also be done with the 'git diff' command (just to check the file which is changed) + editing the file.
+* Merge the main branch and my personal branch (carlos_colmenero_gomez), also in the web application. It could also be done with 'git checkout main' + 'git merge carlos_colmenero_gomez'.
+* Edit the README file in the main branch in order to indicate the commands, also in the web application.
 
 ## Iria Pérez Varela (Collaborator 2)
 * 'git clone' + HTTPS link : it was used to clone the repository. Because of this, adding the username and PAT was also required.
