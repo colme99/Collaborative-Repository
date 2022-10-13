@@ -5,7 +5,7 @@ Repository for the new story.
 
 ## Carlos Colmenero Gómez-Cambronero (Collaborator 1 - Leader)
 * First of all, I created a repository using the web application, with the README file included.
-(Note that the username and email was already configured in my machine with: 'git config --global').
+* (Note that the username and email was already configured in my machine with: 'git config --global').
 * 'git clone https://github.com/colme99/Collaborative-Repository.git' : to clone the repository to my local machine.
 * Create "new story.txt" (the group story file) and edit the file with the same text as shown in the practice.
 * 'git status' : to check the changes.
@@ -18,7 +18,7 @@ Repository for the new story.
 * Push the file ('git status' + 'git add colaborator001_story.txt' + 'git commit -m "Create colaborator001_story.txt"' + 'git push origin carlos_colmenero_gomez').
 * Edit collaborator001_sory.txt file with personal information (some things I did that day).
 * Push the edited file ('git status' + 'git add colaborator001_story.txt' + 'git commit -m "Added collaborator 001 today's activity"' + 'git push origin carlos_colmenero_gomez').
-(Note that a git pull command could have been used at this point to check for changes in the group file, but was not used in order to strictly follow the steps).
+* (Note that a git pull command could have been used at this point to check for changes in the group file, but was not used in order to strictly follow the steps).
 * Add my personal story (collaborator 1 story) to the group file (new story.txt) in my personal branch.
 * Push the edited group file ('git status' + 'git add "new story.txt"' + 'git commit -m "Collaborator 1 story added to new story"' + 'git push origin carlos_colmenero_gomez').
 * Make a pull request to the main branch using the web application.
