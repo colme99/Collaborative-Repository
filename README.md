@@ -18,12 +18,14 @@ Repository for the new story.
 * Push the file ('git status' + 'git add colaborator001_story.txt' + 'git commit -m "Create colaborator001_story.txt"' + 'git push origin carlos_colmenero_gomez').
 * Edit collaborator001_sory.txt file with personal information (some things I did that day).
 * Push the edited file ('git status' + 'git add colaborator001_story.txt' + 'git commit -m "Added collaborator 001 today's activity"' + 'git push origin carlos_colmenero_gomez').
+(Note that a git pull command could have been used at this point to check for changes in the group file, but was not used in order to strictly follow the steps).
 * Add my personal story (collaborator 1 story) to the group file (new story.txt) in my personal branch.
 * Push the edited group file ('git status' + 'git add "new story.txt"' + 'git commit -m "Collaborator 1 story added to new story"' + 'git push origin carlos_colmenero_gomez').
 * Make a pull request to the main branch using the web application.
 * Resolve the conflicts (just so as not to override the collaborator 2 story), also in the web application. It was just solved with the enter key. It could also be done with the 'git diff' command (just to check the file which is changed) + editing the file.
 * Merge the main branch and my personal branch (carlos_colmenero_gomez), also in the web application. It could also be done with 'git checkout main' + 'git merge carlos_colmenero_gomez'.
 * Edit the README file in the main branch in order to indicate the commands, also in the web application.
+* Create the 'authors.txt' file with the collaborator names.
 
 ## Iria Pérez Varela (Collaborator 2)
 * 'git clone' + HTTPS link : it was used to clone the repository. Because of this, adding the username and PAT was also required.
