@@ -50,3 +50,18 @@ Repository for the new story.
 * 'git merge iria_perez_varela' : to add collaborator changes into common main branch.
 
 ## Sergio Rodríguez Llana (Collaborator 3)
+
+* **git clone + repository link** To make a local copy of the contents of the repository.
+* **git log** To see the commit logs in the terminal in order to see the activity/history of the repository.
+* **git checkout sergio_rodriguez_llana** To switch between the 'main' branch to my collaborator branch one in my working directory. This was done to commit changes to my colaborator branch intead of the 'main' one.
+* **git pull** To update my working directory with new changes from the remote repository.
+* **git status** To keep track of the modified files of my working directory.
+* **git branch** To ensure my colaborator branch was active before commiting any changes.
+* **git add** To add a created or modified file to the next commit. For example, I used this when I modified my colaborator story using the terminal.
+* **git rm** To remove a file from the repository in the next commit (I did this to delete a file I introduced by mistake).
+* **git commit -m 'comment'**: To commit the changes done localy and add an explanatory comment.
+* **git push** To submit the new changes and update the remote repository with my local changes.
+* **git checkout main** with **git merge sergio_rodriguez_llana** to update the 'main' branch with my colaborator branch changes. 
+* I edited the README file using the web application.
+* **Note**: some of the commands like *git commit -m* or *git pull* were done several times during this Lab.
+
