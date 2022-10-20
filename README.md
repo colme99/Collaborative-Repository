@@ -26,6 +26,7 @@ Repository for the new story.
 * Merge the main branch and my personal branch (carlos_colmenero_gomez), also in the web application. It could also be done with 'git checkout main' + 'git merge carlos_colmenero_gomez'.
 * Edit the README file in the main branch in order to indicate the commands, also in the web application.
 * Create the 'authors.txt' file with the collaborator names.
+* Make the repository public (in order for teachers to access it), in the web application.
 
 ## Iria Pérez Varela (Collaborator 2)
 * 'git clone' + HTTPS link : it was used to clone the repository. Because of this, adding the username and PAT was also required.
